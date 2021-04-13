@@ -1,7 +1,14 @@
 # Auto-Sklearn with PipelineProfiler for AutoML in Python
 
-* [Click here](https://youtu.be/0jXwYlX8wPk)
-* Click on the image below
+## To view the video
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=0jXwYlX8wPk" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/0jXwYlX8wPk?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Auto-Sklearn with PipelineProfiler for AutoML in Python](http://img.youtube.com/vi/0jXwYlX8wPk/0.jpg)](http://www.youtube.com/watch?v=0jXwYlX8wPk)
 
